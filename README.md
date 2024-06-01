@@ -1,4 +1,5 @@
-### Hi there 👋, I am Robiul Awal
+### Hi there 👋,
+I am Robiul Awal
 #### Tech Entrepreneur | Jr. Software Engineer | AI & Quantum Computing Enthusiast | CSE @ UIU
 ![Tech Entrepreneur | Jr. Software Engineer | AI & Quantum Computing Enthusiast | CSE @ UIU](https://media.licdn.com/dms/image/D5635AQGCTFmKO1F5uQ/profile-framedphoto-shrink_200_200/0/1683905131509?e=1717851600&v=beta&t=eiqOskR64JKIcG1msNyrPIyNh0A4MKkah9WEsqz8Q_E)
 
@@ -15,8 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robiulawal527)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Robiulawal527&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Robiulawal527/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Robiulawal527)  
 
