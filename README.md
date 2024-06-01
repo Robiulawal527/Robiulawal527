@@ -1,8 +1,5 @@
-### Hi there 👋,
-I am Robiul Awal
+### Hi there 👋, I am Robiul Awal
 #### Tech Entrepreneur | Jr. Software Engineer | AI & Quantum Computing Enthusiast | CSE @ UIU
-![Tech Entrepreneur | Jr. Software Engineer | AI & Quantum Computing Enthusiast | CSE @ UIU](https://media.licdn.com/dms/image/D5635AQGCTFmKO1F5uQ/profile-framedphoto-shrink_200_200/0/1683905131509?e=1717851600&v=beta&t=eiqOskR64JKIcG1msNyrPIyNh0A4MKkah9WEsqz8Q_E)
-
 
 - 🔭 I’m currently working on this page. 
 
