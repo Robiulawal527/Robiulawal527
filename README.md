@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Computer Science**
 
-- 📫 How to reach me **+8801740637381**
+- 📫 How to reach me 
 
 - 📄 Know about my experiences [https://robiulawal.netlify.app/](https://robiulawal.netlify.app/)
 
