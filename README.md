@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robiul Awal</h1>
+<h1 align="center">Hi 👋, I'm Robi</h1>
 <h3 align="center">A passionate CS Student @ UIU, Tech Entrepreneur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiulawal527&label=Profile%20views&color=0e75b6&style=flat" alt="robiulawal527" /> </p>
