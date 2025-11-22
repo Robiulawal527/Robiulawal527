@@ -23,7 +23,6 @@
 
 - 📄 Know about my experiences [https://robiulawal.netlify.app/](https://robiulawal.netlify.app/)
 
-- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
