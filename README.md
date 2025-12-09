@@ -1,6 +1,6 @@
 # Hey 👋, I'm Robi
 
-### CS Student @ United International University  
+### BSCSE Student @ United International University  
 **Tech Entrepreneur | AI Engineer | Full-Stack Developer**
 
 Building intelligent systems that solve real problems — from healthcare AI to scalable web platforms.
@@ -57,11 +57,6 @@ Building intelligent systems that solve real problems — from healthcare AI to 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Office Suite](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
-#### Languages
-![English](https://img.shields.io/badge/English-Professional-1E83CD?style=flat)
-![Bengali](https://img.shields.io/badge/বাংলা-Native-006A4E?style=flat)
-
 <hr>
 
 <h3 align="center">Open to collaboration on AI × Healthcare, Full-Stack SaaS, or anything bold and meaningful.</h3>
-<h3 align="center">Let’s build the future — one commit at a time.</h3>
