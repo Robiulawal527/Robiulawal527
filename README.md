@@ -57,37 +57,3 @@ Building intelligent systems that solve real problems from healthcare AI to scal
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Office Suite](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
-<hr>
-
-<pre style="background:#000;color:#00ff00;padding:20px;border:1px solid #00ff00;border-radius:8px;font-family:'Fira Code', 'Courier New', monospace;">
-┌─<span style="color:#00ffff;"> robi@uiucs </span>~/github
-└─➜ <span style="color:#ff00ff;">whoami</span>
-Robi  
-CS @ United International University  
-Tech Entrepreneur · AI Engineer · Full-Stack Builder  
-
-<span style="color:#00ffff;">Currently:</span> Building Cognimed — AI-powered medical diagnosis  
-<span style="color:#00ffff;">Focus:</span>     Production AI · Distributed Systems · Healthcare × Tech  
-<span style="color:#00ffff;">Open for:</span>  Collab on AI, SaaS, Open-source, Research  
-
-<span style="color:#ffff00;">»</span> robiulawal527@gmail.com  
-<span style="color:#ffff00;">»</span> <a href="https://robiulawal.netlify.app" style="color:#00ff00;">robiulawal.netlify.app</a>  
-<span style="color:#ffff00;">»</span> <a href="https://cognimed.netlify.app" style="color:#00ff00;">cognimed.netlify.app</a> (flagship project)
-
-┌─<span style="color:#00ffff;"> skills --grouped </span>
-│
-├─<span style="color:#ff5555;"> Languages</span>       C++ · Java · Python · Go · TypeScript · Dart
-├─<span style="color:#ff5555;"> Full-Stack</span>      Next.js · Node · Express · Prisma · PostgreSQL · MongoDB · Firebase · Docker · Nginx · AWS · Flutter
-├─<span style="color:#ff5555;"> AI Engineering</span>  PyTorch · TensorFlow · OpenCV · LangChain · Scikit-learn · Pandas · NumPy · Seaborn
-├─<span style="color:#ff5555;"> Tools</span>           Linux · VS Code · Git · Figma · MATLAB · Arduino · Office Suite
-└─<span style="color:#ff5555;"> Speak</span>           English (Professional) · বাংলা (Native)
-
-┌─<span style="color:#00ffff;"> github --lang-stats </span>
-│
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robiulawal527&layout=compact&theme=transparent&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-
-┌─<span style="color:#ff00ff;"> ping me for </span>
-│   AI × Healthcare · Full-Stack Products · Research Papers · Open Source
-
-<span style="color:#00ff00;">➜ Let's build something that matters.</span>
-</pre>
