@@ -59,3 +59,8 @@ Building intelligent systems that solve real problems from healthcare AI to scal
 
 <hr>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robiulawal527&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<hr>
