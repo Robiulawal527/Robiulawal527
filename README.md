@@ -1,83 +1,67 @@
-<img src="https://github.com/robiulawal527.png" width="100" style="border-radius:50%; border: 4px solid #0e75b6;" align="right" />
-
 # Hey 👋, I'm Robi
 
-### Computer Science Student @ United International University | Tech Entrepreneur | Building the Future with Code & AI
+### CS Student @ United International University  
+**Tech Entrepreneur | AI Engineer | Full-Stack Developer**
 
-> Turning ideas into intelligent systems. Passionate about AI, full-stack development, and scalable tech solutions.
+Building intelligent systems that solve real problems — from healthcare AI to scalable web platforms.
 
-🔭 **Currently building** → **[Cognimed](https://cognimed.netlify.app/)** – An AI-powered healthcare platform  
-🌱 **Deep diving into** → Advanced AI, Deep Learning, Computer Vision & LLMs  
-🚀 **Founder & Developer** → Cognimed (Open for collaboration & contributions)  
-🔬 Exploring the intersection of AI, medicine, and human-centered design  
+🔭 **Founder & Lead Developer** → [Cognimed](https://cognimed.netlify.app/) – AI-powered medical diagnosis platform  
+🌱 Mastering **AI Engineering**, Distributed Systems, and Production-Grade Full-Stack  
+🚀 Always shipping: code → product → impact
 
-💼 All projects → [robiulawal.netlify.app](https://robiulawal.netlify.app/)  
-✍️ I write about tech & ideas → [robiwrites.blogspot.com](https://robiwrites.blogspot.com/)  
-💬 Ping me about → **AI, Full-Stack Dev, Startups, Open Source, Computer Vision**  
-📫 Reach me: **robiulawal527@gmail.com** (or DMs are open)
+📫 robiulawal527@gmail.com  
+💼 Portfolio → [robiulawal.netlify.app](https://robiulawal.netlify.app/)  
+✍️ Thoughts on tech → [robiwrites.blogspot.com](https://robiwrites.blogspot.com/)
 
 <hr>
 
-### 🛠️ Tech Arsenal
+### 🛠 Tech Stack
+
+#### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+#### Full-Stack & Cloud
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+#### AI & Data Engineering
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+#### Tools & Environment
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-007396?style=flat&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Office Suite](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
 #### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-
-#### AI & Data Science
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-27338E?logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-
-#### Frontend & Full-Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-#### Backend & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-#### Mobile & Embedded
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-
-#### Design & Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)
+![English](https://img.shields.io/badge/English-Professional-1E83CD?style=flat)
+![Bengali](https://img.shields.io/badge/বাংলা-Native-006A4E?style=flat)
 
 <hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robiulawal527&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=robiulawal527&theme=dracula&no-frame=true&row=1&column=7" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robiulawal527&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=robiulawal527&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulawal527&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">Let's build something extraordinary together.</h3>
+<h3 align="center">Open to collaboration on AI × Healthcare, Full-Stack SaaS, or anything bold and meaningful.</h3>
+<h3 align="center">Let’s build the future — one commit at a time.</h3>
