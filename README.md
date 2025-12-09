@@ -59,4 +59,3 @@ Building intelligent systems that solve real problems from healthcare AI to scal
 
 <hr>
 
-<h3 align="center">Open to collaboration on AI × Healthcare, Full-Stack SaaS, or anything bold and meaningful.</h3>
