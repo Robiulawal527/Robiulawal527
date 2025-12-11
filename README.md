@@ -15,7 +15,7 @@ Building intelligent systems that solve real problems from healthcare AI to scal
 
 <hr>
 
-### 🛠 Tech Stack
+### 🛠 Tech Arsenal
 
 #### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
