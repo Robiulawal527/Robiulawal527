@@ -58,3 +58,5 @@ Building intelligent systems that solve real problems from healthcare AI to scal
 ![Matlab](https://img.shields.io/badge/MATLAB-007396?style=flat&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
+
+![](https://hit.yhype.me/github/profile?account_id=41195861)
