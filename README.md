@@ -1,6 +1,6 @@
 # Hey 👋, I'm Robi
 
-**Product Engineer** (orchestration, system design, user experience)
+**Product Engineer**
 
 
 Building intelligent systems that solve real problems from healthcare AI to scalable web platforms.
