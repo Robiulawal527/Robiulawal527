@@ -1,7 +1,8 @@
 # Hey 👋, I'm Robi
 
+**Product Engineer** (orchestration, system design, user experience)
 ### BSCSE @ United International University  
-**Full Stack AI Engineer** (orchestration, system design, user experience)
+
 
 Building intelligent systems that solve real problems from healthcare AI to scalable web platforms.
 
