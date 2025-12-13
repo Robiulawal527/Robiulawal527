@@ -1,7 +1,7 @@
 # Hey 👋, I'm Robi
 
 ### BSCSE @ United International University  
-**Full Stack AI Engineer** (complex problem solving, system design, user experience)
+**Full Stack AI Engineer** (orchestration, system design, user experience)
 
 Building intelligent systems that solve real problems from healthcare AI to scalable web platforms.
 
