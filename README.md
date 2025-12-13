@@ -1,7 +1,7 @@
 # Hey 👋, I'm Robi
 
 ### BSCSE @ United International University  
-**Tech Entrepreneur | AI Engineer | Full-Stack Developer**
+**Tech Entrepreneur | AI Engineer | Full-Stack Engineer**
 
 Building intelligent systems that solve real problems from healthcare AI to scalable web platforms.
 
