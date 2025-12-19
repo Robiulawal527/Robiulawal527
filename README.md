@@ -1,9 +1,7 @@
 # Hey 👋, I'm Robi
 
-**Product Engineer**
 
-
-Building intelligent systems that solve real problems from healthcare AI to scalable web platforms.
+Building intelligent systems that solve real problems, from healthcare AI to scalable web platforms.
 
 🔭 **Founder & Lead Developer** → [Cognimed](https://cognimed.netlify.app/) AI-powered medical diagnosis platform  
 🌱 Mastering **AI Engineering**, Distributed Systems, and Production-Grade Full-Stack  
