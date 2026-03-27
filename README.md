@@ -22,6 +22,7 @@ Building intelligent systems that solve real problems, from healthcare AI to sca
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Lisp](https://img.shields.io/badge/Lisp-000000?style=flat&logo=common-lisp&logoColor=white)
 
 #### Full-Stack & Cloud
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
