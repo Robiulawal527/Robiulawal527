@@ -57,3 +57,4 @@ Building intelligent systems that solve real problems, from healthcare AI to sca
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-007396?style=flat&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
