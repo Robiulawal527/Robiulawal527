@@ -1,7 +1,8 @@
 # Hey 👋, I'm Robi
 
+**AI Product Engineer**
 
-Building intelligent systems that solve real problems, from healthcare AI to scalable web platforms.
+Building intelligent systems that solve real problems, from healthcare AI to scalable software solutions.
 
 🔭 **Founder & Lead Developer** → [curaize.com](https://www.curaize.com/) AI-powered medical diagnosis platform  
 🌱 Mastering **AI Engineering**, Distributed Systems, and Production-Grade Full-Stack  
@@ -32,6 +33,7 @@ Building intelligent systems that solve real problems, from healthcare AI to sca
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
