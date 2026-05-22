@@ -3,7 +3,6 @@
 
 Building intelligent systems that solve real problems. Focus: AI + scalable software.
 
-🔭 **Founder & Lead Developer** → [curaize.com](https://www.curaize.com/) AI-powered medical diagnosis platform  
 🌱 Mastering **AI Engineering**, Distributed Systems, and Production-Grade Full-Stack  
 
 📫 robiulawal527@gmail.com  
